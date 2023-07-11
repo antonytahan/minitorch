@@ -1,0 +1,83 @@
+(base) antonytahan@Antonys-MacBook-Pro-3 mle-module-4-antonytahan % python project/run_sentiment.py
+Reusing dataset glue (/Users/antonytahan/.cache/huggingface/datasets/glue/sst2/1.0.0/dacbe3125aa31d7f70367a07a8a9e72a5a0bfeb5fc42e75c9db75b96da6053ad)
+100%|████████████████████████████████████████████████████████████████████████████████████████| 3/3 [00:00<00:00, 239.50it/s]
+missing pre-trained embedding for 55 unknown words
+OMP: Info #271: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Epoch 1, loss 31.45723462260598, train accuracy: 49.33%
+Validation accuracy: 53.00%
+Best Valid accuracy: 53.00%
+Epoch 2, loss 31.282939852722723, train accuracy: 51.33%
+Validation accuracy: 53.00%
+Best Valid accuracy: 53.00%
+Epoch 3, loss 31.242691548948944, train accuracy: 50.44%
+Validation accuracy: 67.00%
+Best Valid accuracy: 67.00%
+Epoch 4, loss 31.045610392102986, train accuracy: 56.67%
+Validation accuracy: 66.00%
+Best Valid accuracy: 67.00%
+Epoch 5, loss 30.966249700931986, train accuracy: 53.78%
+Validation accuracy: 63.00%
+Best Valid accuracy: 67.00%
+Epoch 6, loss 30.58859226514326, train accuracy: 58.67%
+Validation accuracy: 66.00%
+Best Valid accuracy: 67.00%
+Epoch 7, loss 30.527604095084907, train accuracy: 60.22%
+Validation accuracy: 66.00%
+Best Valid accuracy: 67.00%
+Epoch 8, loss 30.115879641025526, train accuracy: 60.22%
+Validation accuracy: 65.00%
+Best Valid accuracy: 67.00%
+Epoch 9, loss 29.75840262599121, train accuracy: 66.44%
+Validation accuracy: 66.00%
+Best Valid accuracy: 67.00%
+Epoch 10, loss 29.811300725480816, train accuracy: 65.11%
+Validation accuracy: 66.00%
+Best Valid accuracy: 67.00%
+Epoch 11, loss 29.55711662483446, train accuracy: 64.44%
+Validation accuracy: 65.00%
+Best Valid accuracy: 67.00%
+Epoch 12, loss 28.65671882532966, train accuracy: 71.11%
+Validation accuracy: 65.00%
+Best Valid accuracy: 67.00%
+Epoch 13, loss 28.499181862450286, train accuracy: 69.56%
+Validation accuracy: 64.00%
+Best Valid accuracy: 67.00%
+Epoch 14, loss 27.697717444457975, train accuracy: 71.78%
+Validation accuracy: 64.00%
+Best Valid accuracy: 67.00%
+Epoch 15, loss 28.07179236279987, train accuracy: 71.33%
+Validation accuracy: 65.00%
+Best Valid accuracy: 67.00%
+Epoch 16, loss 27.185673634230486, train accuracy: 72.89%
+Validation accuracy: 70.00%
+Best Valid accuracy: 70.00%
+Epoch 17, loss 26.295489702009718, train accuracy: 76.00%
+Validation accuracy: 66.00%
+Best Valid accuracy: 70.00%
+Epoch 18, loss 26.147556881773195, train accuracy: 74.89%
+Validation accuracy: 65.00%
+Best Valid accuracy: 70.00%
+Epoch 19, loss 25.172800379780142, train accuracy: 77.11%
+Validation accuracy: 69.00%
+Best Valid accuracy: 70.00%
+Epoch 20, loss 25.08362688697564, train accuracy: 74.89%
+Validation accuracy: 68.00%
+Best Valid accuracy: 70.00%
+Epoch 21, loss 24.046267986816698, train accuracy: 76.89%
+Validation accuracy: 72.00%
+Best Valid accuracy: 72.00%
+Epoch 22, loss 22.62717608550993, train accuracy: 80.67%
+Validation accuracy: 71.00%
+Best Valid accuracy: 72.00%
+Epoch 23, loss 23.039122070450127, train accuracy: 78.44%
+Validation accuracy: 71.00%
+Best Valid accuracy: 72.00%
+Epoch 24, loss 22.062137645624116, train accuracy: 81.11%
+Validation accuracy: 74.00%
+Best Valid accuracy: 74.00%
+Epoch 25, loss 21.594876107418923, train accuracy: 81.11%
+Validation accuracy: 73.00%
+Best Valid accuracy: 74.00%
+Epoch 26, loss 20.94647123803463, train accuracy: 82.67%
+Validation accuracy: 75.00%
+Best Valid accuracy: 75.00%
